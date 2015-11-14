@@ -6,6 +6,8 @@ pass 1
 pass 2
 pass 1 algorithm is used for creating symbol table,generating addresses,generating opcode.
 pass 2 algorithm is used for creating object program.
+We have to load our object program into memory.
+we are considering a relocatable object program.
 
 
 
